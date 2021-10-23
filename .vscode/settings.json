@@ -23,5 +23,5 @@
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "cSpell.words": ["IPROVIDERS", "IPROVIDERSPROPS"]
+  "cSpell.words": ["Checkmark", "IPROVIDERS", "IPROVIDERSPROPS"]
 }

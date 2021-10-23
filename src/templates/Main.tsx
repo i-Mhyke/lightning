@@ -6,10 +6,10 @@ type IMainProps = {
 };
 
 const Main = (props: IMainProps) => (
-  <div className="antialiased w-full text-gray-700">
+  <div className="antialiased w-full">
     {props.meta}
-    <div className="max-w-screen-lg mx-auto">
-      <div className="py-5 text-xl content">{props.children}</div>
+    <div className="mx-auto">
+      <div className="text-xl content">{props.children}</div>
     </div>
   </div>
 );
